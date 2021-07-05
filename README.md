@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me
+[<img align="left" alt="linked-in" src="http://img.shields.io/badge/linkedin-%2330077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/>"](www.linkedin.com/in/iamartinezp)
